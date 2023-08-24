@@ -1,1 +1,0 @@
-# adnanadrika.github.io
