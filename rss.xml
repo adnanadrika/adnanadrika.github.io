@@ -4,7 +4,7 @@
         <title>EGGSY's Blog</title>
         <link>https://eggsy.xyz/blog</link>
         <description>EGGSY'nin günlük hayattan, tecrübelerinden bahsettiği, göstermek veya anlatmak istediği şeyleri daha düzenli ve profesyonel bir şekilde tuttuğu blog sayfası.</description>
-        <lastBuildDate>Mon, 23 Oct 2023 21:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 21:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -216,20 +216,20 @@
             <enclosure url="https://eggsy.xyz/assets/images/posts/spotify-baglantisindan-youtube-videosu-bulma.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bot Kullanarak Sunucudaki Herkese DM Atmak Neden Yasak?]]></title>
-            <link>https://eggsy.xyz/blog/sunucudaki-herkese-dm-atmak-neden-yasak</link>
-            <guid>https://eggsy.xyz/blog/sunucudaki-herkese-dm-atmak-neden-yasak</guid>
-            <pubDate>Mon, 03 Jun 2019 15:11:00 GMT</pubDate>
-            <description><![CDATA[Evet, botlar kullanılarak bir veya botun olduğu tüm sunuculardaki kullanıcılara bir anda mesaj gönderilebilir. Bu hoş bir şey mi? Hayır. Bunu yapmak yasak mı? Evet!]]></description>
-            <enclosure url="https://eggsy.xyz/assets/images/posts/sunucudaki-herkese-dm-atmak-neden-yasak.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Vue ve Nuxt Nedir? Ne İşe Yarar?]]></title>
             <link>https://eggsy.xyz/blog/vue-nuxt-nedir</link>
             <guid>https://eggsy.xyz/blog/vue-nuxt-nedir</guid>
             <pubDate>Mon, 04 May 2020 21:37:39 GMT</pubDate>
             <description><![CDATA[Kendi internet sitemin ve katkıda bulunduğum tüm projelerinde kullandığı Nuxt'un temeli Vue nedir, ikisi arasındaki farklılıklar nelerdir, bunlarla ne tür şeyler yapılır?]]></description>
             <enclosure url="https://eggsy.xyz/assets/images/posts/vue-nuxt-nedir.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bot Kullanarak Sunucudaki Herkese DM Atmak Neden Yasak?]]></title>
+            <link>https://eggsy.xyz/blog/sunucudaki-herkese-dm-atmak-neden-yasak</link>
+            <guid>https://eggsy.xyz/blog/sunucudaki-herkese-dm-atmak-neden-yasak</guid>
+            <pubDate>Mon, 03 Jun 2019 15:11:00 GMT</pubDate>
+            <description><![CDATA[Evet, botlar kullanılarak bir veya botun olduğu tüm sunuculardaki kullanıcılara bir anda mesaj gönderilebilir. Bu hoş bir şey mi? Hayır. Bunu yapmak yasak mı? Evet!]]></description>
+            <enclosure url="https://eggsy.xyz/assets/images/posts/sunucudaki-herkese-dm-atmak-neden-yasak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yeni Alan Adı!]]></title>
